@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  width: 100%;
+  font-size: 0.875rem;
+  background-color: rgb(107 114 128);
+  color: rgb(17 24 39);
+}
+
+/* Dark mode support */
+.dark {
+  background-color: rgb(17 24 39);
+  color: rgb(243 244 246);
+}
+
+.light {
+  background-color: rgb(249 250 251);
+  color: rgb(17 24 39);
+}
+
+/* Dashboard custom grid rows */
+@media (min-width: 768px) {
+  .custom-grid-rows {
+    grid-template-rows: repeat(8, 20vh);
+  }
+}
+
+@media (min-width: 1280px) {
+  .custom-grid-rows {
+    grid-template-rows: repeat(8, 7.5vh);
+  }
+}
