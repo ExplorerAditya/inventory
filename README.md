@@ -29,8 +29,6 @@
 
 ---
 
-## 🚀 Quick Start
-
 <div align="left">
 
 ### Prerequisites
@@ -165,24 +163,7 @@ docker push exploreradi/inventory-backend:latest
 
 ---
 
-## 🤝 Contributing
 
-<div align="center">
-
-We welcome all contributions! Here's how you can submit updates:
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
-</div>
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
 
 ## 📝 License
 
