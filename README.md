@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="client/public/favicon.svg" alt="Stockly Logo" width="90"/>
-
 # ✨ Stockly - Premium Real-time Inventory & Analytics Dashboard ✨
 
 > 📊 Where Precision Tracking Meets Intelligent Analytics
