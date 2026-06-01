@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="client/public/favicon.svg" alt="Stockly Logo" width="180"/>
+<img src="client/public/favicon.svg" alt="Stockly Logo" width="90"/>
 
 # ✨ Stockly - Premium Real-time Inventory & Analytics Dashboard ✨
 
@@ -213,7 +213,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Contributed with ❤️ by [ExplorerAditya]
 Last Updated: June 2026
-
-[![GitHub Follow](https://img.shields.io/github/followers/exploreradi?style=social)](https://github.com/exploreradi)
 
 </div>
